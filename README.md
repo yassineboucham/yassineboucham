@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+    <a  href="https://github.com/yassineboucham">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OusamaTheCoder&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OusamaTheCoder&theme=github_dark" width="32.5%">
+  <\a>
