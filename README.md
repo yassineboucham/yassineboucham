@@ -4,7 +4,7 @@
 
 - Software Engineering Student at Alx [https://tech.alxafrica.com/software-engineering-programme-casablanca](https://tech.alxafrica.com/software-engineering-programme-casablanca)
 
-- 💬 Ask me about **PHP, PYTHON, AND C**
+- 💬 Ask me about **js, PHP, PYTHON, AND C**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yassine-boucham-9597b4282/**
 
