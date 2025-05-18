@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
  <img src="Bannière LinkedIn web designer Pixellisation minimaliste noir et violet.png" alt="baner">
 
-- Software Engineering Student at Alx [https://tech.alxafrica.com/software-engineering-programme-casablanca](https://tech.alxafrica.com/software-engineering-programme-casablanca)
+- Software Engineering graduate at Alx [https://tech.alxafrica.com/software-engineering-programme-casablanca](https://tech.alxafrica.com/software-engineering-programme-casablanca)
 
 - 💬 Ask me about **js, PHP, PYTHON, AND C**
 
